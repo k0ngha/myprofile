@@ -7,8 +7,13 @@
     --fs-l: 28px;
 }
 
-body {
+
+html {
+
     font-size: 62.5%;
+}
+
+body {
     font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
     background: linear-gradient(to bottom, #D2E9FF 40%, #fff 40%) no-repeat;
     display: flex;
